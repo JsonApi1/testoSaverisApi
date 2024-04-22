@@ -43,22 +43,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 1,
-                    "description": "Berührungsloser Infrarot Fühler",
-                    "name": "IR-Fühler",
+                    "description": "BerÃ¼hrungsloser Infrarot FÃ¼hler",
+                    "name": "IR-FÃ¼hler",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -83,22 +83,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 2,
-                    "description": "Messung durch einstechen der Fühlernadel in flüssige oder weiche Materialien",
-                    "name": "Einstech-Fühler",
+                    "description": "Messung durch einstechen der FÃ¼hlernadel in flÃ¼ssige oder weiche Materialien",
+                    "name": "Einstech-FÃ¼hler",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -123,22 +123,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 2,
-                    "description": "Messung durch einstechen der Fühlernadel in flüssige oder weiche Materialien",
-                    "name": "Einstech-Fühler",
+                    "description": "Messung durch einstechen der FÃ¼hlernadel in flÃ¼ssige oder weiche Materialien",
+                    "name": "Einstech-FÃ¼hler",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -163,22 +163,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 2,
-                    "description": "Messung durch einstechen der Fühlernadel in flüssige oder weiche Materialien",
-                    "name": "Einstech-Fühler",
+                    "description": "Messung durch einstechen der FÃ¼hlernadel in flÃ¼ssige oder weiche Materialien",
+                    "name": "Einstech-FÃ¼hler",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -235,22 +235,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 2,
-                    "description": "Messung durch einstechen der Fühlernadel in flüssige oder weiche Materialien",
-                    "name": "Einstech-Fühler",
+                    "description": "Messung durch einstechen der FÃ¼hlernadel in flÃ¼ssige oder weiche Materialien",
+                    "name": "Einstech-FÃ¼hler",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -275,22 +275,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 3,
-                    "description": "Ablesung eines Zählers oder einer Messinstrumenten-Anzeige",
+                    "description": "Ablesung eines ZÃ¤hlers oder einer Messinstrumenten-Anzeige",
                     "name": "Display Ablesung",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -347,22 +347,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -420,22 +420,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -493,22 +493,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -566,22 +566,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -678,22 +678,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -764,11 +764,11 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 9,
-                    "description": "true oder false / Tür auf oder Tür geschlossen",
-                    "name": "Türkontakt / Door Switch",
+                    "description": "true oder false / TÃ¼r auf oder TÃ¼r geschlossen",
+                    "name": "TÃ¼rkontakt / Door Switch",
                     "physicalProperty": {
                         "id": 4,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temp/Door",
                         "valueTypeCodes": [
                             {
@@ -779,13 +779,13 @@
                             },
                             {
                                 "id": 13,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 14,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -841,11 +841,11 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 9,
-                    "description": "true oder false / Tür auf oder Tür geschlossen",
-                    "name": "Türkontakt / Door Switch",
+                    "description": "true oder false / TÃ¼r auf oder TÃ¼r geschlossen",
+                    "name": "TÃ¼rkontakt / Door Switch",
                     "physicalProperty": {
                         "id": 4,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temp/Door",
                         "valueTypeCodes": [
                             {
@@ -856,13 +856,13 @@
                             },
                             {
                                 "id": 13,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 14,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -957,22 +957,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1037,22 +1037,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1144,7 +1144,7 @@
             {
                 "id": 15,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -1156,22 +1156,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1232,7 +1232,7 @@
             {
                 "id": 17,
                 "channelIndexOfSensor": 2,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -1244,22 +1244,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1291,16 +1291,16 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -1359,7 +1359,7 @@
             {
                 "id": 11,
                 "channelIndexOfSensor": 0,
-                "displayname": "ext. Temperature (°C)",
+                "displayname": "ext. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": true,
@@ -1371,22 +1371,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1447,7 +1447,7 @@
             {
                 "id": 13,
                 "channelIndexOfSensor": 2,
-                "displayname": "ext. Drewpoint temperature (°td)",
+                "displayname": "ext. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": true,
@@ -1459,22 +1459,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1506,16 +1506,16 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -1579,22 +1579,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1750,22 +1750,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 3,
-                    "description": "Ablesung eines Zählers oder einer Messinstrumenten-Anzeige",
+                    "description": "Ablesung eines ZÃ¤hlers oder einer Messinstrumenten-Anzeige",
                     "name": "Display Ablesung",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -1930,7 +1930,7 @@
             {
                 "id": 75,
                 "channelIndexOfSensor": 1,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -1942,22 +1942,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2065,7 +2065,7 @@
             {
                 "id": 78,
                 "channelIndexOfSensor": 4,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -2077,22 +2077,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2124,16 +2124,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -2213,22 +2213,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2299,11 +2299,11 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 9,
-                    "description": "true oder false / Tür auf oder Tür geschlossen",
-                    "name": "Türkontakt / Door Switch",
+                    "description": "true oder false / TÃ¼r auf oder TÃ¼r geschlossen",
+                    "name": "TÃ¼rkontakt / Door Switch",
                     "physicalProperty": {
                         "id": 4,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temp/Door",
                         "valueTypeCodes": [
                             {
@@ -2314,13 +2314,13 @@
                             },
                             {
                                 "id": 13,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 14,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2376,11 +2376,11 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 9,
-                    "description": "true oder false / Tür auf oder Tür geschlossen",
-                    "name": "Türkontakt / Door Switch",
+                    "description": "true oder false / TÃ¼r auf oder TÃ¼r geschlossen",
+                    "name": "TÃ¼rkontakt / Door Switch",
                     "physicalProperty": {
                         "id": 4,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temp/Door",
                         "valueTypeCodes": [
                             {
@@ -2391,13 +2391,13 @@
                             },
                             {
                                 "id": 13,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 14,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2492,22 +2492,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2572,22 +2572,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2679,7 +2679,7 @@
             {
                 "id": 38,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -2691,22 +2691,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2767,7 +2767,7 @@
             {
                 "id": 40,
                 "channelIndexOfSensor": 2,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -2779,22 +2779,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2826,16 +2826,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -2894,7 +2894,7 @@
             {
                 "id": 34,
                 "channelIndexOfSensor": 0,
-                "displayname": "ext. Temperature (°C)",
+                "displayname": "ext. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": true,
@@ -2906,22 +2906,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -2982,7 +2982,7 @@
             {
                 "id": 36,
                 "channelIndexOfSensor": 2,
-                "displayname": "ext. Drewpoint temperature (°td)",
+                "displayname": "ext. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": true,
@@ -2994,22 +2994,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3041,16 +3041,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -3121,22 +3121,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3207,22 +3207,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3298,22 +3298,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3345,22 +3345,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3392,8 +3392,8 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 18,
-                    "description": "true oder false / Tür auf oder Tür geschlossen",
-                    "name": "Türkontakt / Door Switch",
+                    "description": "true oder false / TÃ¼r auf oder TÃ¼r geschlossen",
+                    "name": "TÃ¼rkontakt / Door Switch",
                     "physicalProperty": {
                         "id": 18,
                         "isoUnit": "",
@@ -3472,22 +3472,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3519,22 +3519,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3598,22 +3598,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3670,22 +3670,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3771,7 +3771,7 @@
             {
                 "id": 57,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -3783,22 +3783,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3859,7 +3859,7 @@
             {
                 "id": 59,
                 "channelIndexOfSensor": 2,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -3871,22 +3871,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -3918,16 +3918,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -3986,7 +3986,7 @@
             {
                 "id": 61,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -3998,22 +3998,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -4074,7 +4074,7 @@
             {
                 "id": 63,
                 "channelIndexOfSensor": 2,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -4086,22 +4086,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -4133,16 +4133,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -4221,16 +4221,16 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 19,
-                    "description": "UV Sensor (Bestrahlungsstärke)",
+                    "description": "UV Sensor (BestrahlungsstÃ¤rke)",
                     "name": "UV Sensor",
                     "physicalProperty": {
                         "id": 19,
-                        "isoUnit": "mW/m²",
+                        "isoUnit": "mW/mÂ²",
                         "name": "Irradiance",
                         "valueTypeCodes": [
                             {
                                 "id": 125,
-                                "displayname": "mW/m²",
+                                "displayname": "mW/mÂ²",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -4341,7 +4341,7 @@
             {
                 "id": 68,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -4353,22 +4353,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -4497,7 +4497,7 @@
                             },
                             {
                                 "id": 128,
-                                "displayname": "m/s²",
+                                "displayname": "m/sÂ²",
                                 "gradient": 9.81,
                                 "offset": 0.0
                             }
@@ -4517,7 +4517,7 @@
             {
                 "id": 72,
                 "channelIndexOfSensor": 2,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -4529,22 +4529,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -4576,16 +4576,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -4649,7 +4649,7 @@
             {
                 "id": 80,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -4661,22 +4661,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -4737,7 +4737,7 @@
             {
                 "id": 82,
                 "channelIndexOfSensor": 2,
-                "displayname": "int. Drewpoint temperature (°td)",
+                "displayname": "int. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -4749,22 +4749,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -4796,16 +4796,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
@@ -4943,22 +4943,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -5022,22 +5022,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -5089,7 +5089,7 @@
             {
                 "id": 134,
                 "channelIndexOfSensor": 0,
-                "displayname": "int. Temperature (°C)",
+                "displayname": "int. Temperature (Â°C)",
                 "isCalculated": null,
                 "isCalibrationPossible": true,
                 "isExternal": false,
@@ -5101,22 +5101,22 @@
                 "measChannelType": 0,
                 "channelType": {
                     "id": 4,
-                    "description": "Raum- oder Aussentemperaturfühler",
+                    "description": "Raum- oder AussentemperaturfÃ¼hler",
                     "name": "Temperature",
                     "physicalProperty": {
                         "id": 1,
-                        "isoUnit": "°C",
+                        "isoUnit": "Â°C",
                         "name": "Temperature",
                         "valueTypeCodes": [
                             {
                                 "id": 1,
-                                "displayname": "°C",
+                                "displayname": "Â°C",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 2,
-                                "displayname": "°F",
+                                "displayname": "Â°F",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -5177,7 +5177,7 @@
             {
                 "id": 136,
                 "channelIndexOfSensor": 2,
-                "displayname": "ext. Drewpoint temperature (°td)",
+                "displayname": "ext. Drewpoint temperature (Â°td)",
                 "isCalculated": "TP",
                 "isCalibrationPossible": false,
                 "isExternal": false,
@@ -5189,22 +5189,22 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 7,
-                    "description": "°td - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "Â°td - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "Taupunkt / Dew Point",
                     "physicalProperty": {
                         "id": 7,
-                        "isoUnit": "td °C",
+                        "isoUnit": "td Â°C",
                         "name": "DrewPoint",
                         "valueTypeCodes": [
                             {
                                 "id": 3,
-                                "displayname": "°C td",
+                                "displayname": "Â°C td",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             },
                             {
                                 "id": 4,
-                                "displayname": "°F td",
+                                "displayname": "Â°F td",
                                 "gradient": 1.8,
                                 "offset": 32.0
                             }
@@ -5236,16 +5236,16 @@
                 "measChannelType": 100,
                 "channelType": {
                     "id": 8,
-                    "description": "g/m3 - berechnete Größe aus Temperatur und Feuchte",
+                    "description": "g/m3 - berechnete GrÃ¶ÃŸe aus Temperatur und Feuchte",
                     "name": "abs Humidity",
                     "physicalProperty": {
                         "id": 3,
-                        "isoUnit": "g/m³",
+                        "isoUnit": "g/mÂ³",
                         "name": "abs Humidity",
                         "valueTypeCodes": [
                             {
                                 "id": 12,
-                                "displayname": "g/m³",
+                                "displayname": "g/mÂ³",
                                 "gradient": 1.0,
                                 "offset": 0.0
                             }
